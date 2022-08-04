@@ -1,0 +1,37 @@
+{
+  "clientes": [
+    {
+      "nombre": "Omar Noyola",
+      "empresa": "Ideas4Learning",
+      "email": "omis1296@gmail.com",
+      "telefono": "55566725568",
+      "notas": "Cursos de React",
+      "id": 1
+    },
+    {
+      "nombre": "Mara Olivia Salas Ayala",
+      "empresa": "Veterinaria",
+      "email": "marita@gmail.com",
+      "telefono": "5578945612",
+      "notas": "Cotizar App Veterinaria",
+      "nota": "Cursos de React",
+      "id": 2
+    },
+    {
+      "nombre": "Jose Luis Toribio Cortez",
+      "empresa": "CECUM",
+      "email": "jose.toribio@cecum.com",
+      "telefono": "5579512354",
+      "notas": "Arreglar entrada de correos",
+      "id": 3
+    },
+    {
+      "nombre": "Monica Alvarado",
+      "empresa": "Fisioterapia",
+      "email": "monica@gmail.com",
+      "telefono": "5594561235",
+      "notas": "Cotización de página Web",
+      "id": 4
+    }
+  ]
+}
