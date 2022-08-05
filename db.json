@@ -1,14 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Omar Noyola",
-      "empresa": "Ideas4Learning",
-      "email": "omis1296@gmail.com",
-      "telefono": "55566725568",
-      "notas": "Cursos de React",
-      "id": 1
-    },
-    {
       "nombre": "Mara Olivia Salas Ayala",
       "empresa": "Veterinaria",
       "email": "marita@gmail.com",
@@ -20,9 +12,9 @@
     {
       "nombre": "Jose Luis Toribio Cortez",
       "empresa": "CECUM",
-      "email": "jose.toribio@cecum.com",
+      "email": "joseluis.system@outlook.es",
       "telefono": "5579512354",
-      "notas": "Arreglar entrada de correos",
+      "notas": "Arreglar entrada de correos y camaras de seguridad",
       "id": 3
     },
     {
@@ -32,6 +24,14 @@
       "telefono": "5594561235",
       "notas": "Cotización de página Web",
       "id": 4
+    },
+    {
+      "nombre": "Kenya Ketzally",
+      "empresa": "Cecum",
+      "email": "kenya_ketzally@gmail.com",
+      "telefono": "5512365478",
+      "notas": "Diseño de Diplomas",
+      "id": 5
     }
   ]
 }

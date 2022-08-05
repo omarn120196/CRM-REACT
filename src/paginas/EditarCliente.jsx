@@ -38,10 +38,13 @@ const EditarCliente = () => {
                 Utiliza el formulario para editar datos de un cliente
             </p>
 
-            <Formulario
-                cliente={cliente}
-                cargando={cargando}
-            />
+            {cliente?.nombre ? (
+                <Formulario
+                    cliente={cliente}
+                    cargando={cargando}
+                />
+            ) : <p>Cliente no valido</p>}
+            
         </>
     )
 }
